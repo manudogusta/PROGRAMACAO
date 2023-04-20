@@ -2,12 +2,6 @@ header{
     background-color: green;
     text-align: center;
 }
-.p1{
-    width: 85%;
-}
-.p2{
-    width: 85%;
-}
 .img{
     position: relative;
     left: 15%;
@@ -15,4 +9,6 @@ header{
 footer{
     background-color: green;
     text-align: center;
+    padding-bottom: 1px;
+    padding-top: 1px;
 }
