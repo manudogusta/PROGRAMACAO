@@ -5,7 +5,7 @@ header{
 .p1{
     width: 85%;
     position: relative;
-    left: 15%;
+    left: 15px;
 }
 .img{
     position: relative;
@@ -14,11 +14,11 @@ header{
 .p2{
     width: 85%;
     position: relative;
-    left: 15%;
+    left: 5px;
 }
 footer{
-    background-color: green;
     text-align: center;
+    background-color: green;
     padding-bottom: 1px;
     padding-top: 1px;
 }
