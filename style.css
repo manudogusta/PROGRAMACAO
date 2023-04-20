@@ -2,3 +2,17 @@ header{
     background-color: green;
     text-align: center;
 }
+.p1{
+    width: 85%;
+}
+.p2{
+    width: 85%;
+}
+.img{
+    position: relative;
+    left: 15%;
+}
+footer{
+    background-color: green;
+    text-align: center;
+}
