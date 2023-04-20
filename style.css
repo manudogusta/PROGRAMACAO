@@ -2,15 +2,9 @@ header{
     background-color: green;
     text-align: center;
 }
-.p1{
-    width: 85%;
-}
 .img{
     position: relative;
     left: 15%;
-}
-.p2{
-    width: 85%;
 }
 footer{
     background-color: green;
